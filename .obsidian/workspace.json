@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3f830af17dae1cf1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef55cc9a6038c487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
         "id": "26f5f27a5abd3a2b",
         "type": "tabs",
         "children": [
@@ -31,10 +11,24 @@
             "id": "ab30c49bfef7b9e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "cursor-sessions/2026-04-02 AP开发助理智能体需求讨论.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-02 AP开发助理智能体需求讨论"
             }
           }
         ]
@@ -110,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "cursor-sessions/2026-04-02 AP开发助理智能体需求讨论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "2026-04-02 AP开发助理智能体需求讨论 的反向链接列表"
             }
           },
           {
@@ -129,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "cursor-sessions/2026-04-02 AP开发助理智能体需求讨论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "2026-04-02 AP开发助理智能体需求讨论 的出链列表"
             }
           },
           {
@@ -172,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "cursor-sessions/2026-04-02 AP开发助理智能体需求讨论.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "2026-04-02 AP开发助理智能体需求讨论 的大纲"
             }
           }
         ]
@@ -199,8 +193,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "ef55cc9a6038c487",
+  "active": "ab30c49bfef7b9e7",
   "lastOpenFiles": [
+    "2026-04-03.md",
+    "cursor-sessions/2026-04-02 AP开发助理智能体需求讨论.md",
+    "cursor-sessions",
+    "未命名 1.canvas",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名.canvas",
     "欢迎.md"
   ]
 }
